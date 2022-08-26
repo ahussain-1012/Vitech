@@ -1,0 +1,5 @@
+controller_ip = ""
+controller_username = ""
+controller_password = ""
+account_name = ""
+location = ""
